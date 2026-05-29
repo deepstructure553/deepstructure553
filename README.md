@@ -1,9 +1,9 @@
 **AI Systems · Cloud Infrastructure · Scalable Platforms · Automation**
 
-I build backend systems and AI-powered platforms that hold up in production — architected for scale, designed for the real world.
+I create AI-supported platforms and backend systems using real world-friendly architecture — built to withstand production environments.
 
-My work spans distributed systems, cloud-native infrastructure, and operational automation. I've worked across startups and fast-moving product teams, turning complex engineering problems into reliable, maintainable solutions.
+My work consists of everything from distributed systems to cloud-native infrastructure to automated operational processes. I have spent time working throughout both rapidly growing product teams as well as in startup settings; transforming complicated engineering issues into robust, dependable, and easily maintained solutions.
 
-Currently focused on: software architecture, production-grade AI applications, cloud engineering, and workflow automation.
+My current focus includes software architecture, developing production-grade applications using AI technology, creating cloud engineering solutions, and automating workflows.
 
 > *Make it work. Make it right. Make it scalable.*
